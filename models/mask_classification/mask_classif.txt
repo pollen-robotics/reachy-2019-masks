@@ -1,0 +1,2 @@
+0  no_mask
+1  mask_ok
